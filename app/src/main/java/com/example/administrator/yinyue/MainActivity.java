@@ -143,6 +143,7 @@ public class MainActivity extends AppCompatActivity{
                     fragmentTransaction.commit();
                     buerxing=true;
 
+
                 }
             }
         });
