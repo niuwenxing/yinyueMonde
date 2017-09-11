@@ -142,6 +142,7 @@ public class MainActivity extends AppCompatActivity{
                     fragmentTransaction.replace(R.id.fragment_Layout, fra_list.get(1));
                     fragmentTransaction.commit();
                     buerxing=true;
+
                 }
             }
         });
